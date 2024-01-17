@@ -1,9 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    "shoes": [
+        {   
+            "id":1,
+            "title": "Air Jordan 1 Mid Dutch Green",
+            "category": "Tênis Air Jordan",
+            "price": 1199.19,
+            "img": "https://i.postimg.cc/5N6wrLm4/air-jordan-1-mid-dutch-green-1-400.png"
+        },
+        {   
+            "id":2,
+            "title": "Air Jordan 1 High Zoom CMFT Tropical Twist",
+            "category": "Tênis Air Jordan",
+            "price": 1049,
+            "img": "https://i.postimg.cc/XN2fxQd1/air-jordan-1-high-zoom-cmft-tropical-twist-1-400.png"
+        },
+        {   
+            "id":3,
+            "title": "Air Jordan 1 Retro High Court Purple",
+            "category": "Tênis Air Jordan",
+            "price": 1350,
+            "img": "https://i.postimg.cc/fLCxGvFL/air-jordan-1-retro-high-court-purple-w-1-400.png"
+
+        },
+        {   
+            "id":4,
+            "title": "Air Jordan 1 Mid GS 'Light Smoke Grey'",
+            "category": "Tênis Air Jordan",
+            "price": 1585,
+            "img": "https://i.postimg.cc/tJmFT49G/air-jordan-1-mid-light-smoke-grey-gs-1-1000.png"
+        },
+        {   
+            "id":5,
+            "title": "Air Jordan 1 Mid SE Bright Citrus",
+            "category": "Tênis Air Jordan",
+            "price": 949.99,
+            "img": "https://i.postimg.cc/QCMphTGq/air-jordan-1-mid-bright-citrus-1-1000-1.png"
+        },
+        {   
+            "id":6,
+            "title": "Air Jordan 1 Mid Grey Camo",
+            "category": "Tênis Air Jordan",
+            "price": 999.99,
+            "img": "https://i.postimg.cc/85NRXYZ9/air-jordan-1-mid-grey-camo-1-1000-1.png"
+        }    
+    ]
 }
