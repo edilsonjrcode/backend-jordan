@@ -42,6 +42,13 @@
             "category": "Tênis Air Jordan",
             "price": 999.99,
             "img": "https://i.postimg.cc/85NRXYZ9/air-jordan-1-mid-grey-camo-1-1000-1.png"
-        }    
+        },
+         {   
+            "id":7,
+            "title": "Air Jordan 1 Low Masculino",
+            "category": "Tênis Air Jordan",
+            "price": 1099.99,
+            "img": "https://i.postimg.cc/zfLBJGN9/air-jordan-1-low-green.png"
+        }  
     ]
 }
