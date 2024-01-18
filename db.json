@@ -11,14 +11,14 @@
             "id":2,
             "title": "Air Jordan 1 High Zoom CMFT Tropical Twist",
             "category": "Tênis Air Jordan",
-            "price": 1049,
+            "price": 1049.00,
             "img": "https://i.postimg.cc/XN2fxQd1/air-jordan-1-high-zoom-cmft-tropical-twist-1-400.png"
         },
         {   
             "id":3,
             "title": "Air Jordan 1 Retro High Court Purple",
             "category": "Tênis Air Jordan",
-            "price": 1350,
+            "price": 1350.00,
             "img": "https://i.postimg.cc/fLCxGvFL/air-jordan-1-retro-high-court-purple-w-1-400.png"
 
         },
@@ -26,7 +26,7 @@
             "id":4,
             "title": "Air Jordan 1 Mid GS 'Light Smoke Grey'",
             "category": "Tênis Air Jordan",
-            "price": 1585,
+            "price": 1585.00,
             "img": "https://i.postimg.cc/tJmFT49G/air-jordan-1-mid-light-smoke-grey-gs-1-1000.png"
         },
         {   
